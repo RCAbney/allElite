@@ -1,0 +1,90 @@
+[
+  {
+    "id": "00001",
+    "isActive": true,
+    "mensOrWomensRoster": "mens",
+    "firstName": "Kenny",
+    "lastName": "Omega",
+    "height": {
+      "feet": "6",
+      "inches": "0"
+    },
+    "weight": "229",
+    "homeTown": "Winnipeg, Canada",
+    "companyTitle": "Executive Vice President",
+    "nickName": "The Cleaner",
+    "championshipHeld": ["AEW World Tag Team Champion"],
+    "thumbnailImage": {
+      "src": "../images/omega-cropped.png"
+    },
+    "heroImage": {
+      "src": "../images/omega-cropped.png"
+    },
+    "records": {
+      "singles": {
+        "singlesWins": "1",
+        "singlesLosses": "0"
+      },
+      "tagTeam": {
+        "tagTeamWins": "6",
+        "tagTeamLosses": "0"
+      },
+      "trios": {
+        "triosWins": "1",
+        "triosLosses": "0"
+      },
+      "currentYear": {
+        "currentYearWins": "8",
+        "currentYearLosses": "0"
+      },
+      "careerRecord": {
+        "careerWins": "17",
+        "careerLosses": "6"
+      }
+    }
+  },
+  {
+    "id": "00002",
+    "isActive": true,
+    "mensOrWomensRoster": "mens",
+    "firstName": "Adam",
+    "lastName": "Page",
+    "height": {
+      "feet": "6",
+      "inches": "0"
+    },
+    "weight": "219",
+    "homeTown": "Aaron/'s Creek, Virginia",
+    "companyTitle": null,
+    "nickName": "Hangman",
+    "championshipHeld": ["AEW World Tag Team Champion"],
+    "thumbnailImage": {
+      "src": "../images/page-cropped.png"
+    },
+    "heroImage": {
+      "src": "../images/page-cropped.png"
+    },
+    "records": {
+      "singles": {
+        "singlesWins": "0",
+        "singlesLosses": "0"
+      },
+      "tagTeam": {
+        "tagTeamWins": "6",
+        "tagTeamLosses": "0"
+      },
+      "trios": {
+        "triosWins": "0",
+        "triosLosses": "0"
+      },
+      "currentYear": {
+        "currentYearWins": "6",
+        "currentYearLosses": "1"
+      },
+      "careerRecord": {
+        "careerWins": "12",
+        "careerLosses": "8"
+      }
+    }
+  }
+]

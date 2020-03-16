@@ -44,22 +44,27 @@ export const query = graphql`
             singles {
               singlesWins
               singlesLosses
+              singlesDraws
             }
             tagTeam {
               tagTeamWins
               tagTeamLosses
+              tagTeamDraws
             }
             trios {
               triosWins
               triosLosses
+              triosDraws
             }
             currentYear {
               currentYearWins
               currentYearLosses
+              currentYearDraws
             }
             careerRecord {
               careerWins
               careerLosses
+              careerDraws
             }
           }
         }

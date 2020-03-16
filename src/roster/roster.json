@@ -23,23 +23,28 @@
     "records": {
       "singles": {
         "singlesWins": "1",
-        "singlesLosses": "0"
+        "singlesLosses": "0",
+        "singlesDraws": "0"
       },
       "tagTeam": {
         "tagTeamWins": "6",
-        "tagTeamLosses": "0"
+        "tagTeamLosses": "0",
+        "tagTeamDraws": "0"
       },
       "trios": {
         "triosWins": "1",
-        "triosLosses": "0"
+        "triosLosses": "0",
+        "triosDraws": "0"
       },
       "currentYear": {
         "currentYearWins": "8",
-        "currentYearLosses": "0"
+        "currentYearLosses": "0",
+        "currentYearDraws": "0"
       },
       "careerRecord": {
         "careerWins": "17",
-        "careerLosses": "6"
+        "careerLosses": "6",
+        "careerDraws": "0"
       }
     }
   },
@@ -67,23 +72,28 @@
     "records": {
       "singles": {
         "singlesWins": "0",
-        "singlesLosses": "0"
+        "singlesLosses": "0",
+        "singlesDraws": "0"
       },
       "tagTeam": {
         "tagTeamWins": "6",
-        "tagTeamLosses": "0"
+        "tagTeamLosses": "0",
+        "tagTeamDraws": "0"
       },
       "trios": {
         "triosWins": "0",
-        "triosLosses": "0"
+        "triosLosses": "0",
+        "triosDraws": "0"
       },
       "currentYear": {
         "currentYearWins": "6",
-        "currentYearLosses": "1"
+        "currentYearLosses": "1",
+        "currentYearDraws": "0"
       },
       "careerRecord": {
         "careerWins": "12",
-        "careerLosses": "8"
+        "careerLosses": "8",
+        "careerDraws": "0"
       }
     }
   }
